@@ -1,0 +1,5 @@
+Candidate Three
+Email: candidate3@example.com | Location: Remote
+Summary: NLP Engineer with HuggingFace Transformers and text retrieval.
+Skills: Transformers, BERT, Sentence-BERT, FAISS, Docker, Flask
+Experience: Implemented resume search engines and rerankers.

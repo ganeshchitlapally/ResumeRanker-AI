@@ -1,0 +1,5 @@
+Candidate Two
+Email: candidate2@example.com | Location: NY
+Summary: Data Scientist specialized in LightGBM/XGBoost for tabular data.
+Skills: Python, Scikit-learn, LightGBM, XGBoost, SHAP, Optuna
+Experience: Built churn models and credit risk models on large datasets.

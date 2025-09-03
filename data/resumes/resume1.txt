@@ -1,0 +1,5 @@
+Aneeshas Name
+Email: aneesha@example.com | Location: NJ
+Summary: ML Engineer with experience in Python, PyTorch, AWS, Docker, FastAPI.
+Skills: Python, PyTorch, TensorFlow, AWS, Docker, FastAPI, SQL
+Experience: Built RAG pipelines with FAISS and LangChain; deployed on EC2.
