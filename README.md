@@ -5,11 +5,6 @@ ResumeRanker AI ranks a folder of resumes against a target Job Description (JD),
 - **Keyword/skill overlap** (weighted)
 - **Rule bonuses/penalties** (e.g., years of exp, location if present)
 
-## Why this is hire‑signal
-- Realistic HRTech/NLP problem: **ranking + scoring + bias checks**.
-- FAISS index for fast retrieval, **FastAPI** service, Docker-ready.
-- Clean separation of concerns with tests and config.
-
 ## Quickstart
 ```bash
 python -m venv .venv && source .venv/bin/activate
@@ -50,8 +45,3 @@ ResumeRanker-AI/
   .env.example
   README.md
 ```
-
-## Resume Bullets
-- Built **resume–JD ranking service** using Sentence‑BERT + feature rules; shipped FAISS‑backed FastAPI API with Docker and unit tests.
-- Implemented explainable scoring with semantic cosine similarity and explicit skill matches; exposed `/rank` endpoint returning **rationales** and alignment snippets.
-- Added bias/leakage safeguards and configurable skill weighting for fairer ranking.
